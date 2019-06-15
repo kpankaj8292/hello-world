@@ -1,2 +1,5 @@
 # hello-world
-just another  repository
+
+hi coder!
+
+hi panksj ur welcome
